@@ -1,0 +1,27 @@
+============================================================
+  ONBOARDING SETUP REPORT
+  Generated : 2026-03-02 21:57:25
+  Host      : oms-MacBook-Air.local
+  OS        : Darwin 25.2.0
+  Python    : 3.14.3
+============================================================
+
+  [PASS]  Python Version (≥ 3.10)
+          Python 3.14.3
+
+  [PASS]  Virtual Environment
+          Inside virtual environment
+
+  [PASS]  Installed Packages
+          20 packages found
+
+  [PASS]  Dev Tools (pylint, black)
+          pylint (ok), black (ok)
+
+  [PASS]  Internet Connectivity
+          HTTP 200 from https://httpbin.org/get
+
+------------------------------------------------------------
+  Result : 5/5 checks passed
+  Status : READY TO CODE!
+============================================================
